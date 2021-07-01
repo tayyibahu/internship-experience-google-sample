@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=VideoLibrary
+comment0.text=\r\n\ A\ class\ used\ to\ represent\ a\ Video\ Library.\r\n
+comment1.params=
+comment1.target=VideoLibrary()
+comment2.params=
+comment2.target=java.util.List\ getVideos()
+comment3.params=videoId
+comment3.target=Video\ getVideo(java.lang.String)
+comment3.text=\r\n\ Get\ a\ video\ by\ id.\ Returns\ null\ if\ the\ video\ is\ not\ found.\r\n
+numComments=4

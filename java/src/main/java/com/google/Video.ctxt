@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Video
+comment0.text=A\ class\ used\ to\ represent\ a\ video.
+comment1.params=title\ videoId\ tags
+comment1.target=Video(java.lang.String,\ java.lang.String,\ java.util.List)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=Returns\ the\ title\ of\ the\ video.
+comment3.params=
+comment3.target=java.lang.String\ getVideoId()
+comment3.text=Returns\ the\ video\ id\ of\ the\ video.
+comment4.params=
+comment4.target=java.util.List\ getTags()
+comment4.text=Returns\ a\ readonly\ collection\ of\ the\ tags\ of\ the\ video.
+numComments=5
